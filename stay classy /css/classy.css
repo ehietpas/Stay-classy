@@ -1,0 +1,25 @@
+body{
+font-family:Arial, Palatino, serif;
+
+color:#626d75;
+padding: 100px;
+}
+
+.magical_box{
+border:2px solid#665544;
+padding:inherit;
+background-color:#efefef;
+}
+
+  h1{
+    background-color:#7ec673;
+    color:#ffffff;
+  }
+P{
+  background-color:#ad459c;
+  color:#ffffff;
+}
+.oh{
+  background-color:#ffffff;
+  color:#848384;
+}
